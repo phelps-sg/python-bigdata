@@ -1,6 +1,8 @@
 
 # Data science and Big Data with Python
 
+This is a collection of IPython notebooks that I use to teach topics relating to Data Science and Big Data.
+
 - [Programming in Python](src/main/ipynb/intro-python.ipynb)
 - [Numerical Computing](src/main/ipynb/numerical-slides.ipynb)
 - [Analysing structured data using pandas](src/main/ipynb/pandas.ipynb)
