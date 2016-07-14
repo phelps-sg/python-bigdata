@@ -3,11 +3,11 @@
 
 This is a collection of IPython notebooks that I use to teach topics relating to Data Science and Big Data.
 
-- [Programming in Python](src/main/ipynb/intro-python.ipynb)
-- [Numerical Computing](src/main/ipynb/numerical-slides.ipynb)
-- [Analysing structured data using pandas](src/main/ipynb/pandas.ipynb)
-- [Map-Reduce programming and Apache Spark](src/main/ipynb/spark-mapreduce.ipynb)
-- [Column-oriented databases with HBase and HappyBase](src/main/ipynb/hbase-python-slides.ipynb)
+- [Programming in Python](http://nbviewer.jupyter.org/github/phelps-sg/python-bigdata/blob/master/src/main/ipynb/intro-python.ipynb)
+- [Numerical Computing](http://nbviewer.jupyter.org/github/phelps-sg/python-bigdata/blob/master/src/main/ipynb/numerical-slides.ipynb)
+- [Analysing structured data using pandas](http://nbviewer.jupyter.org/github/phelps-sg/python-bigdata/blob/master/src/main/ipynb/pandas.ipynb)
+- [Map-Reduce programming and Apache Spark](http://nbviewer.jupyter.org/github/phelps-sg/python-bigdata/blob/master/src/main/ipynb/spark-mapreduce.ipynb)
+- [Column-oriented databases with HBase and HappyBase](http://nbviewer.jupyter.org/github/phelps-sg/python-bigdata/blob/master/src/main/ipynb/hbase-python-slides.ipynb)
 
 (C) 2016 [Steve Phelps](http://sphelps.net)
 
