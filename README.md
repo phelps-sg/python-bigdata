@@ -1,5 +1,5 @@
 
-# Data science and Big Data with Python
+# Data Science and Big Data with Python
 
 This is a collection of IPython notebooks that I use to teach topics relating to Data Science and Big Data.
 
