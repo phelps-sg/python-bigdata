@@ -9,5 +9,5 @@
 
 (C) 2016 [Steve Phelps](http://sphelps.net)
 
-This work is licensed under the [Creative oOmmons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license agreement.
+This work is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license agreement.
 
