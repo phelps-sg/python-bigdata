@@ -12,7 +12,5 @@ This is a collection of IPython notebooks that I use to teach topics relating to
 - [Map-Reduce programming and Apache Spark](http://nbviewer.jupyter.org/github/phelps-sg/python-bigdata/blob/master/src/main/ipynb/spark-mapreduce.ipynb)
 - [Column-oriented databases with HBase and HappyBase](http://nbviewer.jupyter.org/github/phelps-sg/python-bigdata/blob/master/src/main/ipynb/hbase-python-slides.ipynb)
 
-A Virtual Appliance can be imported using [VirtualBox](https://www.virtualbox.org/).
-
 This work is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license agreement.
 
