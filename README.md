@@ -1,5 +1,5 @@
 
-# Data Science and Big Data with Python
+# Data Science and Big Data with Python by Steve Phelps
 
 (C) 2016 [Steve Phelps](http://sphelps.net)
 
